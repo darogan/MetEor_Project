@@ -1,8 +1,13 @@
-# MetEor: Metastable Epialleles on Request
+
+<img src="Images/Meteor.png" width="500">
 
 ## Project Aims
 
+Species and strains to be included:
 
+<img src="Images/Black6.png" height="100">
+<img src="Images/cast_mouse.png" height="100">
+<img src="Images/Human.png" height="100">
 
 ## Further Reading
 
