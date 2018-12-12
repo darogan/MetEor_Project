@@ -5,9 +5,11 @@
 
 Species and strains to be included:
 
-<img src="Images/Black6.png" height="100">
-<img src="Images/cast_mouse.png" height="100">
-<img src="Images/Human.png" height="100">
+Species      | Strain |                          |
+------------ | ------ | :----------------------: | 
+Mus_musculus | C57BL6 | <img src="Images/Black6.png" height="100">
+Mus_musculus | CAST   | <img src="Images/cast_mouse.png" height="100">
+Homo_sapiens |        | <img src="Images/Human.png" height="100">
 
 ## Further Reading
 
